@@ -1,0 +1,54 @@
+/* #outer{
+    display: flex;
+} */
+.h1{
+    color: palegreen;
+}
+.car{
+    height: 400px;
+    width: 1050px;
+    margin-top: 15px;
+    padding-left: 40px;
+}
+.nature{
+    height: 400px;
+    width: 1139px; 
+}
+
+.down{
+    height: 400px;
+    width: 1050px;
+    margin-top: 15px;
+    padding-left: 40px;
+}
+.image{
+    height: 400px;
+    width: 1050px;
+    margin-top: 15px;
+    padding-left: 40px;
+}
+.div{
+    height: 60px;
+    width: 1138px; 
+   background-color: lightgray;
+}
+.home{
+    padding-left: 390px;
+}
+.port{
+    padding-left: 90px;
+}
+.contact{
+    padding-left: 90px;
+}
+.overlay-text {
+    position: absolute;
+    top: 40%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: white;
+    padding: 10px 20px; 
+    font-size: 50px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
